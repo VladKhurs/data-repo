@@ -1,0 +1,29 @@
+npm run build
+npm run dev
+ctrl+C - stop dev comand
+git pull
+npm run preview
+
+
+
+Pritier:
+
+npm run lint
+npx prettier . --write
+prettier --write src/
+prettier --write
+
+npx prettier . --check
+
+ПКМ по файлу => форматировать документ
+Shift + Alt + F combination formats the entire document.
+
+npm run format
+npm run ci:format
+npm run lint
+
+
+Installing:
+
+npm i -D @typescript-eslint/parser
+npm i -D '@typescript-eslint/parser'
